@@ -34,18 +34,18 @@ body  {
     line-height: 1.5;
 }
 
-h2, h3 {
+h1, h2 {
     font-family: var(--heading-font);
     font-weight: 700;
 }
 
-h2 {
+h1 {
     font-size: clamp(1.875rem, 5vw, 2.25rem);
     letter-spacing: 2px;
     margin-bottom: 1.5rem;
 }
 
-h3 {
+h2 {
     font-size: clamp(1.25rem, 5vw, 1.5rem);
     padding: 1.875rem 0;
     color: var(--primary-color);
@@ -74,7 +74,7 @@ li {
     margin-bottom: 15px;
 }
 
-h3 ol > li {
+h2 ol > li {
     color: var(--primary-color);
 }
 
