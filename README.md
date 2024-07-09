@@ -26,7 +26,7 @@ Mobile Screenshot <br />
 
 ### Links
 
-- Solution URL: [Github](https://github.com/adewalemudasiru/Blog-Preview-Card)
+- Solution URL: [Github](https://github.com/adewalemudasiru/Recipe-Page)
 - Live Site URL: [SolutionPreview](https://adewalemudasiru.github.io/Blog-Preview-Card/)
 
 ## My process
@@ -50,7 +50,7 @@ In the next project, I will be using new css properties I have seen peoople use 
 
 ## Author
 
-- Website - [Adewale Mudasiru](https://www.your-site.com)
+- Website - [Recipe Page](https://adewalemudasiru.github.io/Recipe-Page/)
 - Frontend Mentor - [@adewalemudasiru](https://www.frontendmentor.io/profile/adewalemudasiru)
 - Twitter - [@ade_mudasiru](https://www.twitter.com/ade_mudasiru)
 
